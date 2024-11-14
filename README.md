@@ -77,7 +77,9 @@ Based on the above insights, the following actions are recommended:
    
    This will help streamline the interview process and reduce the time HR spends evaluating candidates, improving the overall efficiency of the recruitment process.
 
----
+---![image](https://github.com/user-attachments/assets/95da5658-de1d-47bc-903b-3c1224efa378)
+
+
 
 ### Next Steps:
 

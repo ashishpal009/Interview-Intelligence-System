@@ -43,4 +43,44 @@ The dataset used for this project contains information about interviews, candida
 - **Status**: The status of the candidate (Selected/Rejected)
 
 ---
-[image.png](attachment:1ea0f0ad-364a-4510-8b66-1e000569fb7c.png)
+
+![Interview-Intel Workflow](attachment:1ea0f0ad-364a-4510-8b66-1e000569fb7c.png)
+
+## Conclusion
+
+- The data indicates a relatively high number of candidates being actively considered for the job, with **486 individuals qualifying for consideration**.
+- An additional **400 candidates** fall into the "may consider" category, suggesting that they possess some qualifications but may require further evaluation.
+- However, **314 candidates** have been marked as "not considered," indicating they do not meet the necessary criteria for the role.
+
+---
+
+## Analysis or Insights
+
+- There were more job openings for **Program Managers** and fewer for the **Marketing** department.
+- Candidates were predominantly considered for the **Program Manager** role compared to other profiles.
+- **Developer** candidates were more likely to be rejected, while candidates from the **Sales** profile had the least rejection rate.
+- Candidates for the **Automation** profile were often placed in the "not selected" pool or kept on hold for further evaluation.
+
+---
+
+## Prescriptive Analysis
+
+Based on the above insights, the following actions are recommended:
+
+1. **Automation Profile Adjustment**:
+   - With a large number of candidates applying for the **Automation** profile, the client may need to either increase the number of teams or expand the scope of projects.
+   
+2. **Improved Candidate Sorting**:
+   - Implement a better approach to sort candidates by:
+     - Summarizing the **Job Description**, including only the essential skill sets, roles, and responsibilities.
+     - Conducting an **assessment round** for technical profiles or where certain skill sets are mandatory.
+   
+   This will help streamline the interview process and reduce the time HR spends evaluating candidates, improving the overall efficiency of the recruitment process.
+
+---
+
+### Next Steps:
+
+- **Feature Engineering**: Investigate additional features that may improve the model’s predictive capability.
+- **Model Evaluation**: Perform further evaluation of the prediction model to determine the most significant indicators of a candidate's success in interviews.
+- **Scalability**: Explore ways to scale the tool for large recruitment drives.
